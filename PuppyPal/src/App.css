@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+.App{
+  color:green;
+  border: 3px solid gray;
+  padding:10px;
+  font-size: 20px;
+}
+
+.featuredPuppy{
+  border:2px solid grey;
+  font-size: 15px;
+  background-color:aquamarine;
+  
+}
+.singlePup{
+  list-style-type:none;
+  justify-content: flex-start;
+}
+
